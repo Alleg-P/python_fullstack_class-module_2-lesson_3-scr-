@@ -1,0 +1,7 @@
+name_1 = str('Маша')
+name_2 = str('Света')
+name_3 = str('Паша')
+name_4 = str('Олег')
+print('В чётные дни работают: ' + name_2 + ' и ' + name_4)
+print()
+print('В нечётные дни работают: ' + name_1 + ' и ' + name_3)
